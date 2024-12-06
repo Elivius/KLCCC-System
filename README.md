@@ -1,11 +1,14 @@
 # KLCCC-System
+## License
+This code is licensed under the [Apache 2.0 License]. You are free to use, modify, and distribute it, as long as you attribute the original author.
 
-Introduction:
+
+## Introduction:
 KL Central Computer Company (KLCCC) is a rapidly expanding computer sales and repair business located in Kuala Lumpur. To efficiently manage its growing volume of transactions and streamline its operations, KLCCC has decided to implement a comprehensive automated system. This system, developed in Python, is designed to handle the company's core functions across three distinct areas: Customer Management, User Management, and Inventory Management.
 
 The software solution will facilitate various operations, including customer registration and login, order processing, user management, inventory control as well as data analysing and filtering for reporting purpose. Each functional area of the system will be managed by a separate developer to ensure specialized handling and ease of maintenance. 
 
-Assumptions:
+## Assumptions:
 1.	User Types and Approval:
 -	Super User: Root-in account in this KLCCC System with the highest level of access and control and no need to be approved by anyone before accessing the system.
 -	Customers and Inventory Staff: Must register and be approved by admin or the Super User before accessing the system.
